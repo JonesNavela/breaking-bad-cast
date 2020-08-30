@@ -1,4 +1,4 @@
-A React app that shows the cast for breaking bad through their breaking bad API
+A React app that shows the cast for breaking bad through the breaking bad API (https://breakingbadapi.com/documentation)
 
 ## Available Scripts
 
