@@ -22,8 +22,8 @@ const App = () => {
       setCharacters(result.data);
       setIsLoading(false);
     };
-    fetchCharacters();
-  }, [query]); //add query as a dependency
+    fetchCharacters()
+  }, [query]) //add query as a dependency
 
   return (
     <div className="container">
