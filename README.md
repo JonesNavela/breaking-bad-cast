@@ -1,4 +1,4 @@
-A React app(https://breakingbadapp.5loaves2fish.co.za/) that shows the cast for breaking bad through the breaking bad API (https://breakingbadapi.com/documentation)
+A React app(https://breakingbadapi.layersavenuesoftware.co.za/) that shows the cast for breaking bad through the breaking bad API (https://breakingbadapi.com/documentation)
 
 ## Available Scripts
 
